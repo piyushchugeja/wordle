@@ -20,5 +20,5 @@ In this project, I have created a very similar version of the game which execute
   <br> As we know, Wordle provides a single word each day. This version allows you to play as many times as you want with a great experience of unique words. The total number of words used in the game is 5757.
 
 # Execution
-When program starts running:
+
 ![image](https://user-images.githubusercontent.com/66639966/178155245-19dea228-caaf-4283-9a41-67956d6cdbb7.png)
