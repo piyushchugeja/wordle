@@ -22,3 +22,5 @@ In this project, I have created a very similar version of the game which execute
 # Execution
 
 ![image](https://user-images.githubusercontent.com/66639966/178155245-19dea228-caaf-4283-9a41-67956d6cdbb7.png)
+![image](https://user-images.githubusercontent.com/66639966/179571555-65358cc9-f1ae-44ca-b8a3-5fb3e8ec231a.png)
+![image](https://user-images.githubusercontent.com/66639966/179573488-0f281761-15f8-49ab-b936-76072b903d65.png)
