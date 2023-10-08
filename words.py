@@ -15,7 +15,7 @@ def print_winning_message():
    #     #    #  #    #         #  #  #  #    #  #   ##
    #      ####    ####           ## ##    ####   #    #
     '''
-    print(Fore.GREEN + message)
+    print(message)
 
 def print_losing_message(word):
     message = '''
@@ -27,4 +27,4 @@ def print_losing_message(word):
    #     #    #  #    #          #       #    #  #    #     #
    #      ####    ####           ######   ####    ####      #
     '''
-    print(Fore.RED + message + "\nThe word was: " + Fore.YELLOW + word)
+    print(message + "\nThe word was: " + word)
